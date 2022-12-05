@@ -107,7 +107,7 @@ flowchart TB
 ui[User Interface/Client]
 api[Entity API]
 db[Database]
-auth[Authetication]
+auth[Authentication]
 payment[Payment]
 dbf[Flight Database]
 monit[Monitoring]
